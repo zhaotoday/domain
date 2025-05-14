@@ -8,4 +8,4 @@
 - [2024可行的Google SEO快速排名教程六：外贸网站如何注册高质量过期域名](https://zhuanlan.zhihu.com/p/688838939)
 
 #### 工具
-- https://query.domains/
+- [Query.Domains](https://query.domains/)

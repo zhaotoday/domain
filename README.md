@@ -9,3 +9,4 @@
 
 #### 工具
 - [Query.Domains](https://query.domains/)
+- [DomainTools](https://whois.domaintools.com/)
